@@ -36,6 +36,7 @@ A simple Bash script that fetches and displays real-time cryptocurrency prices i
 ## Usage
 
 1. **List your currency**:
+
 Simply put your desired coins in the coins.txt file. 
 
 Example:
@@ -46,9 +47,11 @@ Example:
    ETH
    ```
 2. **Run the script**:
+
 Run the script with:
-    
+    ```bash
 ./tokentracker.sh
+
 
 
 ## License
