@@ -49,9 +49,9 @@ Example:
 2. **Run the script**:
 
 Run the script with:
-    ```bash
-./tokentracker.sh
 
+./tokentracker.sh
+   
 
 
 ## License
