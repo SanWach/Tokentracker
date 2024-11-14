@@ -30,7 +30,7 @@ A simple Bash script that fetches and displays real-time cryptocurrency prices i
 
  *Add your API Key*:
 
- - Open the script file (crypto_tracker.sh) in a text editor.
+ - Open the script file (tokentracker.sh) in a text editor.
  - Replace "API" in API_KEY="API" with your actual API key.
 
 ## Usage
@@ -40,8 +40,10 @@ Simply put your desired coins in the coins.txt file.
 
 Example:
 
-BTC
-ETH
+   ```plaintext
+   BTC
+   DOGE
+   ETH
 
 2. **Run the script**:
 Run the script with:
