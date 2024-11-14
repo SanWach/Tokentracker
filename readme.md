@@ -44,7 +44,7 @@ Example:
    BTC
    DOGE
    ETH
-
+   ```
 2. **Run the script**:
 Run the script with:
     
